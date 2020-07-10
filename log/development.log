@@ -4707,3 +4707,7 @@ Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb
 Cannot render console from 76.124.168.60! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
 DEPRECATION WARNING: ActiveRecord::Base.raise_in_transactional_callbacks= is deprecated, has no effect and will be removed without replacement. (called from load at /usr/local/rvm/gems/ruby-2.6.1/bin/shotgun:23)
   [1m[36mActiveRecord::SchemaMigration Load (0.2ms)[0m  [1m[34mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for 76.124.168.60 at 2020-07-10 08:19:17 +0000
+Cannot render console from 76.124.168.60! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+DEPRECATION WARNING: ActiveRecord::Base.raise_in_transactional_callbacks= is deprecated, has no effect and will be removed without replacement. (called from load at /usr/local/rvm/gems/ruby-2.6.1/bin/shotgun:23)
+  [1m[36mActiveRecord::SchemaMigration Load (0.2ms)[0m  [1m[34mSELECT "schema_migrations".* FROM "schema_migrations"[0m
